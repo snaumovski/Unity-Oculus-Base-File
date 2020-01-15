@@ -111,38 +111,14 @@
     <Reference Include="UnityEngine.TestRunner">
       <HintPath>H:/659/GitHub/Unity-Oculus-Base-File/VRTK/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
-    <Reference Include="Supyrb.Editor">
-      <HintPath>H:/659/GitHub/Unity-Oculus-Base-File/VRTK/Library/ScriptAssemblies/Supyrb.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="VRTK.Prefabs.Runtime">
-      <HintPath>H:/659/GitHub/Unity-Oculus-Base-File/VRTK/Library/ScriptAssemblies/VRTK.Prefabs.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="Zinnia.Editor">
-      <HintPath>H:/659/GitHub/Unity-Oculus-Base-File/VRTK/Library/ScriptAssemblies/Zinnia.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>H:/659/GitHub/Unity-Oculus-Base-File/VRTK/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>H:/659/GitHub/Unity-Oculus-Base-File/VRTK/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Zinnia.Runtime">
-      <HintPath>H:/659/GitHub/Unity-Oculus-Base-File/VRTK/Library/ScriptAssemblies/Zinnia.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.TextMeshPro">
-      <HintPath>H:/659/GitHub/Unity-Oculus-Base-File/VRTK/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>H:/659/GitHub/Unity-Oculus-Base-File/VRTK/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>H:/659/GitHub/Unity-Oculus-Base-File/VRTK/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="com.unity.multiplayer-hlapi.Editor">
-      <HintPath>H:/659/GitHub/Unity-Oculus-Base-File/VRTK/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.VSCode.Editor">
       <HintPath>H:/659/GitHub/Unity-Oculus-Base-File/VRTK/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro.Editor">
+      <HintPath>H:/659/GitHub/Unity-Oculus-Base-File/VRTK/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>H:/659/GitHub/Unity-Oculus-Base-File/VRTK/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
@@ -150,14 +126,35 @@
     <Reference Include="Unity.Timeline">
       <HintPath>H:/659/GitHub/Unity-Oculus-Base-File/VRTK/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.CollabProxy.Editor">
+      <HintPath>H:/659/GitHub/Unity-Oculus-Base-File/VRTK/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Rider.Editor">
+      <HintPath>H:/659/GitHub/Unity-Oculus-Base-File/VRTK/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>H:/659/GitHub/Unity-Oculus-Base-File/VRTK/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.UI">
+      <HintPath>H:/659/GitHub/Unity-Oculus-Base-File/VRTK/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Supyrb.Editor">
+      <HintPath>H:/659/GitHub/Unity-Oculus-Base-File/VRTK/Library/ScriptAssemblies/Supyrb.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="com.unity.multiplayer-hlapi.Editor">
+      <HintPath>H:/659/GitHub/Unity-Oculus-Base-File/VRTK/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="VRTK.Prefabs.Runtime">
+      <HintPath>H:/659/GitHub/Unity-Oculus-Base-File/VRTK/Library/ScriptAssemblies/VRTK.Prefabs.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Zinnia.Editor">
+      <HintPath>H:/659/GitHub/Unity-Oculus-Base-File/VRTK/Library/ScriptAssemblies/Zinnia.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="com.unity.multiplayer-weaver.Editor">
       <HintPath>H:/659/GitHub/Unity-Oculus-Base-File/VRTK/Library/ScriptAssemblies/com.unity.multiplayer-weaver.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.XR.LegacyInputHelpers">
       <HintPath>H:/659/GitHub/Unity-Oculus-Base-File/VRTK/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Rider.Editor">
-      <HintPath>H:/659/GitHub/Unity-Oculus-Base-File/VRTK/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Sprite.Editor">
       <HintPath>H:/659/GitHub/Unity-Oculus-Base-File/VRTK/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
@@ -165,17 +162,20 @@
     <Reference Include="Unity.2D.Tilemap.Editor">
       <HintPath>H:/659/GitHub/Unity-Oculus-Base-File/VRTK/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Zinnia.Runtime">
+      <HintPath>H:/659/GitHub/Unity-Oculus-Base-File/VRTK/Library/ScriptAssemblies/Zinnia.Runtime.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEditor.SpatialTracking">
       <HintPath>H:/659/GitHub/Unity-Oculus-Base-File/VRTK/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.SpatialTracking">
       <HintPath>H:/659/GitHub/Unity-Oculus-Base-File/VRTK/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Analytics.DataPrivacy">
+      <HintPath>H:/659/GitHub/Unity-Oculus-Base-File/VRTK/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEditor.XR.LegacyInputHelpers">
       <HintPath>H:/659/GitHub/Unity-Oculus-Base-File/VRTK/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor.UI">
-      <HintPath>H:/659/GitHub/Unity-Oculus-Base-File/VRTK/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.multiplayer-hlapi.Runtime">
       <HintPath>H:/659/GitHub/Unity-Oculus-Base-File/VRTK/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.dll</HintPath>
@@ -372,6 +372,9 @@
     <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/16.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
+    <Reference Include="UnityEngine.Advertisements">
+      <HintPath>H:/659/GitHub/Unity-Oculus-Base-File/VRTK/Library/PackageCache/com.unity.ads@2.0.8/UnityEngine.Advertisements.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEditor.Advertisements">
       <HintPath>H:/659/GitHub/Unity-Oculus-Base-File/VRTK/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
     </Reference>
@@ -383,6 +386,9 @@
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
       <HintPath>H:/659/GitHub/Unity-Oculus-Base-File/VRTK/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Purchasing">
+      <HintPath>H:/659/GitHub/Unity-Oculus-Base-File/VRTK/Library/PackageCache/com.unity.purchasing@2.0.6/UnityEngine.Purchasing.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Purchasing">
       <HintPath>H:/659/GitHub/Unity-Oculus-Base-File/VRTK/Library/PackageCache/com.unity.purchasing@2.0.6/Editor/UnityEditor.Purchasing.dll</HintPath>
